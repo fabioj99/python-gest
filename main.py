@@ -1,2 +1,4 @@
-print("Hello World")
-print("Fabio tu papa")
+def main (msg):
+    print(msg)
+
+main("Hola a todos")
